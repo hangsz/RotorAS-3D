@@ -1,11 +1,12 @@
 # RotorAS-3D 
 
+`配置：`
 1. RotorAS-3D 与 另外两个压缩文件（要解压）放到 同一目录下（任选）；
 </br>
 2. case 文件放到E:\CFD_solver 目录下。
 
 
-`展示`:
+`展示：`
 </br>`3D`</br>
 [The Curl Distribution in Rotor Wake](http://v.youku.com/v_show/id_XMTY0NzM1MDQyMA==.html)
 </br>
