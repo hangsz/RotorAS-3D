@@ -4,7 +4,8 @@
 1.  .exe文件与另外两个.7z文件（要解压）放到同一目录下（任选）；
 2.  case 文件放到 `E:\CFD_solver` 目录下。
 
-### `效果展示：`
+---
+### 效果展示
 1. `3D`
    - [The Curl Distribution in Rotor Wake](http://v.youku.com/v_show/id_XMTY0NzM1MDQyMA==.html)
 2. `2D`
